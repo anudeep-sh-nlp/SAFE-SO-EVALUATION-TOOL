@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-ink-50 text-ink-900;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  /* Devanagari text rendering */
+  .font-devanagari {
+    font-family: 'Noto Sans Devanagari', serif;
+    font-feature-settings: "kern" 1;
+    word-break: break-word;
+  }
+}
