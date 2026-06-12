@@ -15,6 +15,7 @@ You must have [Node.js](https://nodejs.org/) installed on your computer.
 
 **Download the tool:**
    Clone this repository via your terminal, or click the green **Code** button at the top of this page and select **Download ZIP** (extract it after downloading).
+
    ```bash
    git clone [https://github.com/anudeep-sh-nlp/SAFE-SO-EVALUATION-TOOL.git](https://github.com/anudeep-sh-nlp/SAFE-SO-EVALUATION-TOOL.git)
    cd SAFE-SO-EVALUATION-TOOL
