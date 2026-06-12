@@ -18,8 +18,11 @@ You must have [Node.js](https://nodejs.org/) installed on your computer.
    ```bash
    git clone [https://github.com/anudeep-sh-nlp/SAFE-SO-EVALUATION-TOOL.git](https://github.com/anudeep-sh-nlp/SAFE-SO-EVALUATION-TOOL.git)
    cd SAFE-SO-EVALUATION-TOOL
+   ```
 
-📊 The SAFE-SO Evaluation Framework
+---
+
+## 📊 The SAFE-SO Evaluation Framework
 Each translation output is evaluated independently. Annotators must view one output at a time to ensure unbiased judging. The following pivot configurations are evaluated independently: Direct, Ja, Ko, Tr, Fr, Hi.
 
 D1 · Adequacy
@@ -82,6 +85,8 @@ How naturally readable and comprehensible is the reference Nepali sentence?
 2: Requires effort
 
 1: Unclear
+
+---
 
 📝 Mandatory Remarks
 A remark is required whenever D1 ≤ 2, and/or D3 ≤ 2.
