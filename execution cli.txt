@@ -1,0 +1,4 @@
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+npm run preview
+http://localhost:4174/

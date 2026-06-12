@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Production build artifacts
+dist/
+dist-desktop/
+dist-mac/
+SAFE_SO_BUILD/
+
+# OS files
+.DS_Store
+Thumbs.db

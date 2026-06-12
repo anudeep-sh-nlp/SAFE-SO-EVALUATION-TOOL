@@ -48,8 +48,8 @@ export function SetupScreen({ onImport, isLoading, error, hasExistingData, onRes
               SAFE-SO
             </span>
             <span className="w-px h-3 bg-ink-300" />
-            <span className="text-xs font-mono text-ink-400">v1.0</span>
-          </div>
+            <span className="text-xs font-mono text-ink-400">v1.0 | Dev - Anudeep Sh 🦢</span>
+          </div> 
           <h1 className="text-3xl font-semibold text-ink-900 leading-tight">
             Annotation Tool
           </h1>
